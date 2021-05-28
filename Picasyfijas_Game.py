@@ -1,6 +1,6 @@
 def game():
   boton = True
-  intento = 1-
+  intento = 1
   while boton:
     picas = 0
     fijas = 0
