@@ -3,8 +3,8 @@ h1 {
 }
 p {
     color: black; text-align: left; font-size: 25px;
-    border: 2px;
-    border-radius: 5px;
+    border: solid  red 5px;
+    border-radius: 3px;
     
     
 }
